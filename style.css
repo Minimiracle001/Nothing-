@@ -1,0 +1,154 @@
+.div1{
+    color: white;
+    background: blue;
+    display: flex;
+    gap: 0rem;
+}
+.img1{
+    height: 5rem;
+    width: 5rem;
+    border-radius: 50%;
+    border:2px solid white;
+    background: white;
+}
+ul{
+   margin-top: 2rem;
+    list-style-type: none;
+    display: flex;
+    gap: 4px;
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
+.div1a{
+    display: flex;
+}
+.txt1{
+     font-size: 18px;
+     margin-top: 2rem;
+}
+.img2{
+    height: 7rem;
+    width: 7rem;
+    border: 2px solid blue;
+    border-radius: 50%;
+    
+}
+.div2{
+    margin: 2px 6px;
+    display: flex;
+}
+.div3{
+    display: flex;
+}
+.div3a{
+    width: 50%;
+    background: red;
+}
+.img3{
+    width: 50%;
+    margin: 0rem 6rem;
+}
+.div3b{
+    width: 50%;
+    background: blue;
+}
+.div3q{
+    margin: 3rem 4rem;
+    color: white;
+}
+p2{
+    margin-top: 0rem;
+}
+.icon{
+    height: 16px;
+    width: 16px;
+}
+.icon2{
+    height: 13px;
+    width: 13px;
+}
+.icon1{
+    height: 16px;
+    width: 10px;
+}
+.iconic{
+    height: 16px;
+    width: 16px;
+    color: blue;
+}
+.p1{
+    margin-top: 5rem;
+}
+.e1{
+    color: blue;
+}
+.icn{
+    width: 4rem;
+    height: 4rem;
+    float: right;
+    margin-top: -3.6rem ;
+}
+.main1{
+    display: flex;
+    gap: 7rem;
+}
+.bu1{
+    background: orange;
+    color: white;
+    padding: 10px;
+}
+.div4{
+    display: flex;
+    gap: 2rem;
+}
+.div4a{
+    width: 200%;
+    background: red;
+    box-shadow: 20px 20px 8px black;
+    border-radius: 20px;
+}
+.img4{
+    height: 9rem;
+    width: 9rem;
+    border-radius: 20px;
+    margin-left: 2rem ;
+}
+.img5{
+    height: 9rem;
+    width: 9rem;
+    border-radius: 20px;
+    margin-left: 2rem ;
+    
+}
+.img6{
+    height: 9rem;
+    width: 9rem;
+    border-radius: 20px;
+    margin-left: 2rem ;
+    }
+.pa1{
+    margin: 0rem 1rem;
+}
+h2{
+    text-align: center;
+}
+.g1{
+    margin: 3rem 1rem;
+}
+.iconb{
+    width: 5rem;
+    height: 3rem;
+}
+.div5{
+    text-align: center;
+    color: white;
+}
+.bu2{
+    font-size: 2rem;
+    background: blue;
+    margin: 5rem 0rem;
+    color: white;
+}
